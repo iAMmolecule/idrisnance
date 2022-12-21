@@ -7,7 +7,7 @@ High School Student
 My name is Idris and I am a High School student learning Computer Science and Game Development.
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [solo.to/idrisnance](//https://solo.to/idrisnance)(https://solo.to/idrisnance)
+* 🖥️  See my portfolio at [solo.to/idrisnance](//https://solo.to/idrisnance)
 * ✉️  You can contact me at [nance.idris2030@gmail.com](mailto:nance.idris2030@gmail.com)
 * 🧠  I'm learning Computer Science
 * ⚡  Fun fact: love fashion, anime and games
