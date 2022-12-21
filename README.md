@@ -1,6 +1,3 @@
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Idris Nance
 ============================
 
@@ -9,21 +6,24 @@ High School Student
 
 My name is Idris and I am a High School student learning Computer Science and Game Development.
 
-* 🌍  I'm based in California
-* 🖥️  See my portfolio at [solo.to/idrisnance](http://https://solo.to/idrisnance)
-* ✉️  You can contact me at [nance.idris2030@gmail.com](mailto:nance.idris2030@gmail.com)
-* 🧠  I'm learning Computer Science
-* ⚡  Fun fact: love fashion, anime and games
+* 🌍  I'm based in California
+* 🖥️  See my portfolio at [solo.to/idrisnance](http://https://solo.to/idrisnance)
+* ✉️  You can contact me at [nance.idris2030@gmail.com](mailto:nance.idris2030@gmail.com)
+* 🧠  I'm learning Computer Science
+* ⚡  Fun fact: love fashion, anime and games
 
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/idrisnance" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/idris_nance#3778/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/idrisnance" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/idris.molecule/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/users/20828281/molecule" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
