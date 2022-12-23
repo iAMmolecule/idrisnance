@@ -12,7 +12,6 @@ My name is Idris and I am a High School student learning Python & C#
 * 🧠  I'm learning Python & C#
 * ⚡  Fun fact: love fashion, anime and games
 
-### Skills
 
 ### Skills
 
