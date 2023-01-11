@@ -7,7 +7,7 @@ Middle School Student
 My name is Idris and I am a Middle School student learning Computer Science, Game Development, C#, and Python.
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [solo.to/idrisnance](http://https://solo.to/idrisnance)
+* 🖥️  See my portfolio at [solo.to/idrisnance](https://solo.to/idrisnance)
 * ✉️  You can contact me at [nance.idris2030@gmail.com](mailto:nance.idris2030@gmail.com)
 * 🧠  I'm learning Computer Science, Game Development, C#, and Python
 * ⚡  Fun fact: I love anime, basketball, art, and games
