@@ -7,11 +7,9 @@ Middle School Student
 My name is Idris Nance and I'm a Middle School Student currently learning how to make an AI Voice Assistant in Python.
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [solo.to/idrisnance](http://solo.to/idrisnance)
 * ✉️  You can contact me at [nance.idris2030@gmail.com](mailto:nance.idris2030@gmail.com)
 * 🚀  I'm currently working on [Griot](http://https://github.com/idrisnance/Griot)
 * 🧠  I'm learning Python
-* ⚡  Fun fact: I love anime, basketball, art, and games
 
 ### Skills
 
